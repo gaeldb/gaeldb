@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gaël Barbier</h1>
-<h3 align="center">Infrastructure & platform engineer (SRE, cloud, network)</h3>
+<h3 align="center">CTO, infrastructure & platform engineer (SRE, cloud, network)</h3>
 
 - 📫 How to reach me: **gael@skalab.fr**
 
