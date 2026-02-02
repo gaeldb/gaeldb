@@ -30,3 +30,16 @@
 	<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> </a>
 	<a href="#" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" width="40" height="40"/> </a>
 </p>
+
+<h3 align="left">Open source contributor:</h3>
+<p align="left">
+<ul>
+	<li>Multiple Prometheus exporters (Postgresql, x509, etc.)</li>
+	<li>Multiple Ansible roles, plugins and collections</li>
+	<li>Ansible Semaphore</li>
+	<li>Terraform providers</li>
+	<li>Asterisk (mainly chan_alsaradio)
+	<li>Reactnative Webview</li>
+	<li>...</li>
+</ul>
+</p>
