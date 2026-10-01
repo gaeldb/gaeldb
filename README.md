@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Gaël Barbier</h1>
-<h3 align="center">CTO & Product Builder - Sovereign Platform & AI - Python Lead Dev</h3>
+<h3 align="center">CTO & Product Builder - Sovereign Platform, Network & AI - Python Lead Dev</h3>
 
 - 📫 How to reach me: **gael@skalab.fr**
+- 📍 Paris & Bordeaux, France
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -11,8 +12,8 @@
 <h3 align="left">What I do today:</h3>
 <p align="left">
 <ul>
-	<li><b>Co-founder & CTO at <a href="https://github.com/elixir-sante">Elixir</a></b> — health applications used by 1–2 million people</li>
-	<li><b>Co-founder at <a href="https://skalab.fr">Skalab</a></b> — sovereign hosting and managed platforms (France & Europe) for SMEs</li>
+	<li><b>Co-founder & CTO at <a href="https://github.com/elixir-sante">Elixir</a></b> — software vendor (éditeur de logiciels): we design, build and publish health applications that reach 1–2 million people</li>
+	<li><b>Co-founder at <a href="https://skalab.fr">Skalab</a></b> — sovereign hosting and managed platforms (France & Europe) for SMEs, and resilient Internet access systems over satellite and mobile networks</li>
 </ul>
 </p>
 
@@ -23,6 +24,7 @@
 	<li>Cloud sovereignty: leading migrations from hyperscalers to French and European cloud providers</li>
 	<li>Hosting sensitive and health data on compliant, audited and resilient platforms</li>
 	<li>Data center strategy: resilience, redundancy and sovereignty, from the hardware up</li>
+	<li>Resilient connectivity: satellite and mobile-network Internet access, designed to keep sites online when fixed links fail</li>
 	<li>Platform mindset: infrastructure as a product for development teams, not a zoo of tools</li>
 </ul>
 </p>
@@ -43,6 +45,15 @@
 	<li>Technical strategy and architecture governance</li>
 	<li>Building and growing engineering teams: hiring, mentoring, delivery culture</li>
 	<li>Bridging business and technology, from roadmap to production incidents</li>
+</ul>
+</p>
+
+<h3 align="left">Telecom & Networks:</h3>
+<p align="left">
+<ul>
+	<li>Resilient Internet access systems: satellite and mobile networks</li>
+	<li>VoIP and radio over IP: Asterisk, SIP tooling</li>
+	<li>Network engineering: routing, firewalling, VPN — the layer under every platform</li>
 </ul>
 </p>
 
@@ -101,19 +112,19 @@
 <h3 align="left">Open source — maintainer, involved contributor or occasional contributor:</h3>
 <p align="left">
 <ul>
-	<li><b><a href="https://github.com/elixir-sante/django-elixir-toolkit">django-elixir-toolkit</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Django toolkit powering our health apps: Bulma components, HTMX patterns, secure by default</li>
-	<li><b><a href="https://github.com/elixir-sante/django-franceconnect">django-franceconnect</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — FranceConnect integration toolkit for Django</li>
-	<li><b><a href="https://github.com/gaeldb/chan_alsaradio">chan_alsaradio</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Asterisk channel driver for radio over IP, ported to Asterisk 13+ (C)</li>
-	<li><b><a href="https://github.com/gaeldb/ansible-ovh-dns">ansible-ovh-dns</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Ansible module for the OVH DNS API</li>
-	<li><b><a href="https://github.com/gaeldb/ansible-callback-report">ansible-callback-report</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Ansible collection for callback reporting</li>
-	<li><b><a href="https://github.com/gaeldb/htcpcp-senseo">htcpcp-senseo</a></b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Coffee over IP: an HTCPCP server for Philips Senseo (Arduino, RFC 2324)</li>
-	<li><b>Prometheus exporters</b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — Postgresql, x509, pfSense, etc.</li>
-	<li><b>Ansible roles, plugins and collections</b> <img src="https://img.shields.io/badge/Maintainer-2ea44f?style=flat-square" alt="Maintainer"/> — nginx-https, django-app, galera-arbitrator, btrfs, HPE Comware, ovftool...</li>
-	<li><b><a href="https://github.com/scaleway/terraform-provider-scaleway">terraform-provider-scaleway</a></b> <img src="https://img.shields.io/badge/Involved_contributor-8957e5?style=flat-square" alt="Involved contributor"/> — merged PR upstream (also maintain vSphere provider fork)</li>
-	<li><b><a href="https://github.com/ansible-semaphore/semaphore">Ansible Semaphore</a></b> <img src="https://img.shields.io/badge/Involved_contributor-8957e5?style=flat-square" alt="Involved contributor"/> — modern UI for Ansible</li>
-	<li><b><a href="https://github.com/asterisk/asterisk">Asterisk</a></b> <img src="https://img.shields.io/badge/Involved_contributor-8957e5?style=flat-square" alt="Involved contributor"/> — mainly chan_alsaradio</li>
-	<li><b><a href="https://github.com/react-native-webview/react-native-webview">react-native-webview</a></b> <img src="https://img.shields.io/badge/Involved_contributor-8957e5?style=flat-square" alt="Involved contributor"/> — iOS patches: filename extraction from Content-Disposition header</li>
-	<li><b><a href="https://github.com/hashicorp/consul">HashiCorp Consul</a></b> <img src="https://img.shields.io/badge/Occasional_contributor-6e7681?style=flat-square" alt="Occasional contributor"/> — PR upstream: Scaleway region management</li>
+	<li><b><a href="https://github.com/elixir-sante/django-elixir-toolkit">django-elixir-toolkit</a></b> — Django toolkit powering our health apps: Bulma components, HTMX patterns, secure by default</li>
+	<li><b><a href="https://github.com/elixir-sante/django-franceconnect">django-franceconnect</a></b> — FranceConnect integration toolkit for Django</li>
+	<li><b><a href="https://github.com/gaeldb/chan_alsaradio">chan_alsaradio</a></b> — Asterisk channel driver for radio over IP, ported to Asterisk 13+ (C)</li>
+	<li><b><a href="https://github.com/gaeldb/ansible-ovh-dns">ansible-ovh-dns</a></b> — Ansible module for the OVH DNS API</li>
+	<li><b><a href="https://github.com/gaeldb/ansible-callback-report">ansible-callback-report</a></b> — Ansible collection for callback reporting</li>
+	<li><b><a href="https://github.com/gaeldb/htcpcp-senseo">htcpcp-senseo</a></b> — Coffee over IP: an HTCPCP server for Philips Senseo (Arduino, RFC 2324)</li>
+	<li><b>Prometheus exporters</b> — Postgresql, x509, pfSense, etc.</li>
+	<li><b>Ansible roles, plugins and collections</b> — nginx-https, django-app, galera-arbitrator, btrfs, HPE Comware, ovftool...</li>
+	<li><b><a href="https://github.com/scaleway/terraform-provider-scaleway">terraform-provider-scaleway</a></b> — merged PR upstream (also maintain vSphere provider fork)</li>
+	<li><b><a href="https://github.com/ansible-semaphore/semaphore">Ansible Semaphore</a></b> — modern UI for Ansible</li>
+	<li><b><a href="https://github.com/asterisk/asterisk">Asterisk</a></b> — mainly chan_alsaradio</li>
+	<li><b><a href="https://github.com/react-native-webview/react-native-webview">react-native-webview</a></b> — iOS patches: filename extraction from Content-Disposition header</li>
+	<li><b><a href="https://github.com/hashicorp/consul">HashiCorp Consul</a></b> — PR upstream: Scaleway region management</li>
 	<li>...</li>
 </ul>
 </p>
