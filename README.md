@@ -13,7 +13,8 @@
 <p align="left">
 <ul>
 	<li><b>Co-founder & CTO at <a href="https://github.com/elixir-sante">Elixir</a></b> — software vendor (éditeur de logiciels): we design, build and publish health applications that reach 1–2 million people</li>
-	<li><b>Co-founder at <a href="https://skalab.fr">Skalab</a></b> — sovereign hosting and managed platforms (France & Europe) for SMEs, and resilient Internet access systems over satellite and mobile networks</li>
+	<li><b>Co-founder at <a href="https://skalab.fr">Skalab</a></b> — sovereign hosting and managed platforms (France & Europe), VOIP, resilient internet access (satellite & mobile secured network) for SMEs, startups and public sector</li>
+	<li><b>Knowledge sharing & occasional Tech Advisor</b> — conference talks, guest lectures in engineering schools, and tech advisory for any company that asks for it</li>
 </ul>
 </p>
 
